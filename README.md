@@ -12,6 +12,12 @@ Clone or fork the repo from [GitHub](https://github.com/nabeek/employee-summary)
 
 After installing, run the application with `node app.js` in terminal/bash. Realistically, there is no limit to the number of team members that can be added. An HTML file will generate in the output folder after indicating there are no more team members to add.
 
+## Screenshot
+
+An example team and generated webpage
+
+![generated-team-screenshot](https://user-images.githubusercontent.com/4752937/81086301-87652900-8eb5-11ea-82fb-34cf76147439.png)
+
 ## Testing
 
 Run `npm run test`
