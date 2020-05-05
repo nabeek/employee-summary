@@ -18,9 +18,9 @@ Run `npm run test`
 
 ## Tech Used
 
-[Bootstrap](https://getbootstrap.com/)
-[Node](https://nodejs.org/en/)
-[Inquirer](https://github.com/SBoudrias/Inquirer.js#readme)
+[Bootstrap](https://getbootstrap.com/)\
+[Node](https://nodejs.org/en/)\
+[Inquirer](https://github.com/SBoudrias/Inquirer.js#readme)\
 [Jest](https://jestjs.io/)
 
 ## Contributing
