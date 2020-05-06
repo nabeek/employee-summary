@@ -67,8 +67,7 @@ async function init() {
       console.error(error);
     }
   }
-  console.log(employees);
-  console.log("-----");
+
   buildTeam();
 }
 
